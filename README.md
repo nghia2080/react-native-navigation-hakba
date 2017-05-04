@@ -1,1 +1,2 @@
-# react-native-navigation-hakba
+# react-native-experimental-navigation
+React Native ExperimentalNavigation clone
